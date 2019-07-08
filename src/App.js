@@ -8,7 +8,7 @@ import './Game.js';
 function App() {
   return (
     <div className="App">
-      <Game />
+      {/* <Game /> */}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
